@@ -1,6 +1,6 @@
 # WebDevWebpage <br>
-Name: Arvin
-Class: L4BC
+Name: Arvin <br>
+Class: L4BC <br>
 Course: Web Application Development And Security <br>
 Session: 6 <br>
 Type: Individual Activity Assignment <br>
